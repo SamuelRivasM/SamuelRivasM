@@ -1,15 +1,13 @@
-<h1 align="center"><img height="50" src="https://raw.githubusercontent.com/gist/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif">Hola 🤘, I'm Samuel uwu <img height="50" src="https://media.tenor.com/V9XG4Lp_SN0AAAAj/rat-dance.gif"></h1>
-<h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
+<h1 align="center"><img height="50" src="https://raw.githubusercontent.com/gist/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif">¡Hola, aquí Samuel! uwu <img height="50" src="https://media.tenor.com/V9XG4Lp_SN0AAAAj/rat-dance.gif"></h1>
+<h3 align="center">Soy un apasionado por el aprendizaje continuo</h3>
 
-- 🔭 I’m currently working on my **Python Course**
+- 🌱 Actualemente ando aprendiendo **React **
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 👯 En busca de colaboración en **proyectos front-end **
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+- 📫 Cómo contactarme: **samuelrivas07@gmail.com**
 
-- 📫 How to reach me: **brantlauro@gmail.com**
-
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+- ⚡Que me gusta hacer **Me gusta muchísimo aprender de todo, leer y hacer ejercicio...sobre todo el ciclismo y su maravillosa capacidad de llevarme a conocer lugares mágicos.**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -21,7 +19,7 @@
   
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Lenguajes y Herramientas</h3>
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -30,9 +28,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
@@ -51,6 +46,6 @@
 
 ------
 
-[BrantLauro](https://github.com/BrantLauro)
+[SamuelRivasM](https://github.com/SamuelRivasM)
 
-Last Edited on: 05/08/2021
+Last Edited on: 16/07/25
