@@ -1,9 +1,9 @@
 <h1 align="center"><img height="50" src="https://raw.githubusercontent.com/gist/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif">¡Hola, aquí Samuel! uwu <img height="50" src="https://media.tenor.com/V9XG4Lp_SN0AAAAj/rat-dance.gif"></h1>
 <h3 align="center">Soy un apasionado por el aprendizaje continuo</h3>
 
-- 🌱 Actualemente ando aprendiendo **React **
+- 🌱 Actualemente ando aprendiendo **React.**
 
-- 👯 En busca de colaboración en **proyectos front-end **
+- 👯 En busca de colaboración en **proyectos front-end.**
 
 - 📫 Cómo contactarme: **samuelrivas07@gmail.com**
 
