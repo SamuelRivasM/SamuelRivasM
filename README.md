@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img height="50" src="https://raw.githubusercontent.com/gist/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif">, I'm Samuel uwu <img height="50" src="https://media.tenor.com/V9XG4Lp_SN0AAAAj/rat-dance.gif"></h1>
+<h1 align="center"><img height="50" src="https://raw.githubusercontent.com/gist/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif">Hola 🤘, I'm Samuel uwu <img height="50" src="https://media.tenor.com/V9XG4Lp_SN0AAAAj/rat-dance.gif"></h1>
 <h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
 
 - 🔭 I’m currently working on my **Python Course**
