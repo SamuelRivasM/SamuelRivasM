@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samuel uwu <img height="40" src="https://media.tenor.com/V9XG4Lp_SN0AAAAj/rat-dance.gif"></h1>
+<h1 align="center">Hi https://www.pixilart.com/art/random-mario-gif-de219d8cf346bb9, I'm Samuel uwu <img height="40" src="https://media.tenor.com/V9XG4Lp_SN0AAAAj/rat-dance.gif"></h1>
 <h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
 
 - 🔭 I’m currently working on my **Python Course**
