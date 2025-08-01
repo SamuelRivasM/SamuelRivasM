@@ -9,7 +9,7 @@
 
 - ⚡Que me gusta hacer **Me gusta muchísimo aprender de todo, leer y hacer ejercicio...sobre todo el ciclismo y su maravillosa capacidad de llevarme a conocer lugares mágicos.**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">¡Contáctame! :3</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-rivas-molleda-888341216/)
