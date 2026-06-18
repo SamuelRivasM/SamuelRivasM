@@ -39,10 +39,10 @@
     <img src="https://images.icon-icons.com/2699/PNG/512/google_bigquery_logo_icon_168150.png" alt="BigQuery" width="40" height="40"/> 
   </a> 
   <a href="https://cloud.google.com/?hl=es" target="_blank"> 
-    <img src="https://ausum.cloud/wp-content/uploads/2024/04/0_r4wOvRFGy78MfMh4.png" alt="Google Cloud Platform" width="40" height="40"/> 
+    <img src="https://img.icons8.com/color/512/google-cloud.png" alt="Google Cloud Platform" width="40" height="40"/> 
   </a> 
-  <a href="[https://cloud.google.com/?hl=es](https://cloud.google.com/data-studio?hl=es)" target="_blank"> 
-    <img src="[https://ausum.cloud/wp-content/uploads/2024/04/0_r4wOvRFGy78MfMh4.png](https://images.seeklogo.com/logo-png/61/2/looker-studio-logo-png_seeklogo-617989.png)" alt="LookerStudio / Data Studio" width="40" height="40"/> 
+  <a href="https://cloud.google.com/data-studio?hl=es" target="_blank"> 
+    <img src="https://images.seeklogo.com/logo-png/61/2/looker-studio-logo-png_seeklogo-617989.png" alt="LookerStudio or Data Studio" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
