@@ -29,7 +29,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://www.python.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://www.linux.org/" target="_blank"> 
@@ -44,4 +44,4 @@
 
 [SamuelRivasM](https://github.com/SamuelRivasM)
 
-Last Edited on: 16/07/25
+Last Edited on: 17/06/26
