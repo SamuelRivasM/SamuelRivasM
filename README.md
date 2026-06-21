@@ -1,10 +1,10 @@
 <h1 align="center"><img height="50" src="https://raw.githubusercontent.com/gist/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif">¡Hey, aquí Samuel! uwu <img height="50" src="https://media.tenor.com/V9XG4Lp_SN0AAAAj/rat-dance.gif"></h1>
 <h3 align="center">Soy un apasionado por el aprendizaje continuo</h3>
 
-- 🌱 Actualemente ando aprendiendo **React.**
+- 🌱 Actualemente ando aprendiendo **CompTIA Security+ SY0-701, implementación de marcos ITIL y MDR .**
 
-- 👯 En busca de colaboración en **proyectos front-end.**
-
+- 🛡️ Áreas de interés actual: **Áreas de interés actual:** Ciberseguridad, administración de sistemas (Linux/Cloud), observabilidad y automatización de procesos (DevOps/SysOps).**
+  
 - 📫 Cómo contactarme: **samuelrivas07@gmail.com**
 
 - ⚡Que me gusta hacer **Me gusta muchísimo aprender de todo, leer y hacer ejercicio...sobre todo el ciclismo y su maravillosa capacidad de llevarme a conocer lugares mágicos.**
@@ -53,4 +53,4 @@
 
 [SamuelRivasM](https://github.com/SamuelRivasM)
 
-Last Edited on: 17/06/26
+Last Edited on: 21/06/26
