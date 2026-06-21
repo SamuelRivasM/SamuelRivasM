@@ -3,7 +3,7 @@
 
 - 🌱 Actualemente ando aprendiendo **CompTIA Security+ SY0-701, implementación de marcos ITIL y MDR .**
 
-- 🛡️ Áreas de interés actual: ** Ciberseguridad, administración de sistemas (Linux/Cloud), observabilidad y automatización de procesos (DevOps/SysOps).**
+- 🛡️ Áreas de interés actual: **Ciberseguridad, administración de sistemas (Linux/Cloud), observabilidad y automatización de procesos (DevOps/SysOps).**
   
 - 📫 Cómo contactarme: **samuelrivas07@gmail.com**
 
